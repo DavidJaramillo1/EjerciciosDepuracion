@@ -24,5 +24,6 @@ public class Ejemplo1While {
         }
         System.out.println("La suma es: " + suma );
     }
-}
+
+
 
